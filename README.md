@@ -2,7 +2,7 @@
 
 # Integrantes
 
-Nombre completo | Yeifer Ronaldo Muñoz Valecia - 2278665 | Juan Carlos Rojas Quintero -  | Maicol Steven Rodriguez Arana - |
+# | Yeifer Ronaldo Muñoz Valecia - 2278665 | Juan Carlos Rojas Quintero -  | Maicol Steven Rodriguez Arana - |
 
 # Descripción del Proyecto
 
